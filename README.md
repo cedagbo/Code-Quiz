@@ -45,3 +45,7 @@ In doing so, I can gauge my progress compared to my peers.
 ## Installation
 The user does not need to install any software.
 
+## Doumentation
+
+## License
+Code Quiz is under MIT License.
