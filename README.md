@@ -34,3 +34,10 @@ In doing so, I can gauge my progress compared to my peers.
 <li>THEN the game is over.</li>
 <li>WHEN the game is over,</li>
 <li>THEN I can save my initials and score.</li>
+
+## Technologies 
+<ul>
+    <li>HTML 5</li>
+    <li>CSS 3</li>
+    <li>JavaScript ES5</li>
+</ul>
