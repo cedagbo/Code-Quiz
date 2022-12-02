@@ -56,3 +56,5 @@ Code Quiz is under MIT License.
     <li>Repository: https://github.com/cedagbo/Code-Quiz </li>
 </ul>
 
+## Author
+Copyright (c) 2022 Chris-Eric Dagbo
