@@ -41,3 +41,7 @@ In doing so, I can gauge my progress compared to my peers.
     <li>CSS 3</li>
     <li>JavaScript ES5</li>
 </ul>
+
+## Installation
+The user does not need to install any software.
+
