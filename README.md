@@ -49,3 +49,10 @@ The user does not need to install any software.
 
 ## License
 Code Quiz is under MIT License.
+
+## Deployment
+<ul>
+    <li>Website: </li>
+    <li>Repository: https://github.com/cedagbo/Code-Quiz </li>
+</ul>
+
