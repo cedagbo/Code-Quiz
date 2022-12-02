@@ -1,7 +1,7 @@
-# Code-Quiz
+# Code Quiz
 
 ## Descrition
-Code-Quiz is a timed, multiple-choice coding quiz that captures the user input and tracks his scores along the way.
+Code Quiz is a timed, multiple-choice coding quiz that captures the user input and tracks his scores along the way.
 
 ## Table of contents
 <ul>
