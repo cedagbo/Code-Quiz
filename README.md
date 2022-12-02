@@ -18,7 +18,9 @@ Code-Quiz is a timed, multiple-choice coding quiz that captures the user input a
 </ul>
 
 ## User Story
-As a coding boot camp student, I want to take a timed quiz on JavaScript fundamentals that stores high scores. In doing so, I can gauge my progress compared to my peers.
+As a coding boot camp student, 
+I want to take a timed quiz on JavaScript fundamentals that stores high scores. 
+In doing so, I can gauge my progress compared to my peers.
 
 ## Acceptance Criteria
 <li>GIVEN I am taking a code quiz.</li>
