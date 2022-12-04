@@ -22,6 +22,7 @@ h1{
     border-bottom: solid 3px var(--black);
 }
 #high-scores{
+    text-decoration: none;
     color: var(--pink);
     font-weight: bold;
 }
