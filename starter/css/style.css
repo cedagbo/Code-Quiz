@@ -2,6 +2,7 @@
 :root{
     --pink:#A513EE;
     --black: #34495E;
+    --white:#FDFEFE;
 }
 
 body{
@@ -40,4 +41,19 @@ p{
     justify-content: center;
     margin:10px;
     background-color: var(--pink);
+}
+
+/* Button style */
+.btn{
+    display: inline-block;
+    color: var(--white);
+    border:none;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 4px;
+    text-decoration: none;
 }
