@@ -1,13 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-    <script src="./starter/script.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <!--CSS -->
+    <link rel="stylesheet" href="./starter/css/style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h3 id="high-scores"><a href="#">View high scores</a></h3>
+      <h3>Time: 0</h3>
+    </header>
+
+    <!--Main content-->
+    <main id="content">
+      <h1>Coding Quiz Challenge</h1>
+      <p>
+        Try answer the following code-relating questions within the time limit.
+        Keep in mind that incorrect answers will penalise your score / time by
+        ten seconds!
+      </p>
+      <button type="button" id="start">Start Quiz</button>
+    </main>
+
+    <!--JavaScript -->
+    <script src="./starter/js/script.js"></script>
+  </body>
 </html>
